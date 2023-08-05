@@ -89,3 +89,7 @@ After completing the SQLBOT lessons on SQL Queries and Database Management (Less
 One of the most interesting code snippets I've come across is using the `du -sh ./*` command to quickly find the size of directories in my current directory. This snippet allows me to assess disk usage at a glance:
 
 ![command](./imgs/cammand.png)
+
+---
+
+[Continue to My Next Markdown Page](Growth.md)
