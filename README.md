@@ -30,6 +30,7 @@ I'm currently diving into Code 401 - the pinnacle of software development educat
 ### 401 reading table 
 
 | Reading Title | Link                                              |
+|----------------|------------------------------------------------------------|
 | Sql | [SqlLink](sql.md) |
 | Terminal | [TeminalLink](terminal.md) |
 | Growth mindset  | [GrowthMindestLink](Growth.md) |
