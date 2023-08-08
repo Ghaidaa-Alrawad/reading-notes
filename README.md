@@ -34,3 +34,6 @@ I'm currently diving into Code 401 - the pinnacle of software development educat
 | Sql | [SqlLink](sql.md) |
 | Terminal | [TeminalLink](terminal.md) |
 | Growth mindset  | [GrowthMindestLink](Growth.md) |
+| Class01 reading  | [class01Link](class01.md) |
+| Class02 reading  | [class02Link](class02.md) |
+
