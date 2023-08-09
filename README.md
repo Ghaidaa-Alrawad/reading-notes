@@ -36,4 +36,6 @@ I'm currently diving into Code 401 - the pinnacle of software development educat
 | Growth mindset  | [GrowthMindestLink](Growth.md) |
 | Class01 reading  | [class01Link](class01.md) |
 | Class02 reading  | [class02Link](class02.md) |
+| Class03 reading  | [class03Link](class03.md) |
+
 
