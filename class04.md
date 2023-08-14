@@ -32,6 +32,7 @@ Constructors play a crucial role in object-oriented programming by enabling prop
 ## Write the declaration statement for a class named “Student” :
 
 `public class Student {`
+
 `}`
 
 ---
@@ -51,22 +52,23 @@ Binary: To convert the decimal number 52 to binary, you can repeatedly divide th
 Here's the breakdown:
 
 `52 ÷ 2 = 26 remainder 0`
+
 `26 ÷ 2 = 13 remainder 1`
+
 `13 ÷ 2 = 6 remainder 1`
+
 `6 ÷ 2 = 3 remainder 0`
+
 `3 ÷ 2 = 1 remainder 1`
+
 `1 ÷ 2 = 0 remainder 1`
 
 Hexadecimal: To convert the decimal number 52 to hexadecimal, divide the number by 16 and keep track of the remainders.
 
 Here's the breakdown:
 
-`
-52 ÷ 16 = 3 remainder 4 (4 is represented as "4" in hexadecimal)
-3 ÷ 16 = 0 remainder 3 (3 is represented '3' in the hexadecimal)
-`
-
 `52 ÷ 16 = 3 remainder 4 (4 is represented as "4" in hexadecimal)`
+
 `3 ÷ 16 = 0 remainder 3 (3 is represented '3' in the hexadecimal)`
 
 ---
