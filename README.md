@@ -37,7 +37,7 @@ I'm currently diving into Code 401 - the pinnacle of software development educat
 | Class01 reading  | [class01Link](class01.md) |
 | Class02 reading  | [class02Link](class02.md) |
 | Class03 reading  | [class03Link](class03.md) |
-| Class04 reading  | [class03Link](class04.md) |
+| Class04 reading  | [class04Link](class04.md) |
 
 
 
