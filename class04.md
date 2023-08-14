@@ -61,6 +61,11 @@ Hexadecimal: To convert the decimal number 52 to hexadecimal, divide the number 
 
 Here's the breakdown:
 
+`
+52 ÷ 16 = 3 remainder 4 (4 is represented as "4" in hexadecimal)
+3 ÷ 16 = 0 remainder 3 (3 is represented '3' in the hexadecimal)
+`
+
 `52 ÷ 16 = 3 remainder 4 (4 is represented as "4" in hexadecimal)`
 `3 ÷ 16 = 0 remainder 3 (3 is represented '3' in the hexadecimal)`
 
