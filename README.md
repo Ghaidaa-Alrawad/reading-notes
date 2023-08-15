@@ -38,6 +38,8 @@ I'm currently diving into Code 401 - the pinnacle of software development educat
 | Class02 reading  | [class02Link](class02.md) |
 | Class03 reading  | [class03Link](class03.md) |
 | Class04 reading  | [class04Link](class04.md) |
+| Class05 reading  | [class05Link](class05.md) |
+
 
 
 
