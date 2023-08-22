@@ -34,13 +34,15 @@ I'm currently diving into Code 401 - the pinnacle of software development educat
 | Sql | [SqlLink](sql.md) |
 | Terminal | [TeminalLink](terminal.md) |
 | Growth mindset  | [GrowthMindestLink](Growth.md) |
-| Class01 reading  | [class01Link](class01.md) |
-| Class02 reading  | [class02Link](class02.md) |
-| Class03 reading  | [class03Link](class03.md) |
-| Class04 reading  | [class04Link](class04.md) |
-| Class05 reading  | [class05Link](class05.md) |
+| Class01 reading  | [Class01Link](class01.md) |
+| Class02 reading  | [Class02Link](class02.md) |
+| Class03 reading  | [Class03Link](class03.md) |
+| Class04 reading  | [Class04Link](class04.md) |
+| Class05 reading  | [Class05Link](class05.md) |
 | Class06 reading  | [Class06Link](class06.md) |
 | Stack&Queue reading  | [Stack&QueueLink](Stack&Queue.md) |
+| Class08 reading  | [Class08Link](class08.md) |
+
 
 
 
