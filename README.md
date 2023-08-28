@@ -42,6 +42,8 @@ I'm currently diving into Code 401 - the pinnacle of software development educat
 | Class06 reading  | [Class06Link](class06.md) |
 | Stack&Queue reading  | [Stack&QueueLink](Stack&Queue.md) |
 | Class08 reading  | [Class08Link](class08.md) |
+| Class09 reading  | [Class09Link](class09.md) |
+
 
 
 
