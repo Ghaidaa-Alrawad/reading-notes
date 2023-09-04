@@ -45,12 +45,3 @@ I'm currently diving into Code 401 - the pinnacle of software development educat
 | Class09 reading  | [Class09Link](class09.md) |
 | Class11 reading  | [Class11Link](class11.md) |
 | Class12 reading  | [Class12Link](class12.md) |
-
-
-
-
-
-
-
-
-

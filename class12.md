@@ -57,7 +57,6 @@ Putting it all together, the method signature to find a student by name in a Stu
 public interface StudentRepos extends JpaRepository<Student, Long> {
     Student findByname(String name);
 }
-
 ``` 
 
 ## Things I want to know more about
