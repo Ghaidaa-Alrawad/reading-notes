@@ -2,11 +2,11 @@
 
 ## Spring guide: Accessing Data with JPA
 
-1. How are query methods defined when using Spring Data JPA?
+### How are query methods defined when using Spring Data JPA?
 
 The JpaRepository stands out among the Spring Data Repositories covered in the readings due to its extensive array of methods. It not only incorporates all the functions offered by both the PagingAndSortingRepository and CrudRepository interfaces but also introduces its unique set of methods
 
-2. Which dependencies will you need in order to complete the Spring guide?
+### Which dependencies will you need in order to complete the Spring guide?
 
 To complete the Spring guide, you will need the following dependencies:
 
@@ -14,7 +14,7 @@ To complete the Spring guide, you will need the following dependencies:
 - Gradle 7.5+ or Maven 3.5+
 - Spring Data JPA, H2 Database, Spring Boot Starter Data JPA
  
-3. What annotations are used to specify an auto generated identification number for an Entity?
+### What annotations are used to specify an auto generated identification number for an Entity?
 Annotations such as @Identifier and @AutoGenerate are employed for specific field purposes within the entity.
 
 While @Identifier designates a field as significant, @AutoGenerate, in this context, determines the method of ID generation. In this instance, it's configured as GenerationType.AUTO, implying that the database system will handle ID generation automatically
@@ -23,13 +23,13 @@ While @Identifier designates a field as significant, @AutoGenerate, in this cont
 
 ## Baeldung: Comparing repositories 
 
-1. Which of the Spring Data Repositories covered in the readings has the most methods available to it?
+### Which of the Spring Data Repositories covered in the readings has the most methods available to it?
 
 JpaRepository stands out as the repository with the most extensive array of methods among the Spring Data Repositories covered in the readings.
 
 By extending both PagingAndSortingRepository and CrudRepository, it not only incorporates all the methods provided by these interfaces but also introduces its own set of unique functionalities
 
-2. Name a downstide of a Spring Data Repository.
+### Name a downstide of a Spring Data Repository.
 
 A downside of using a Spring Data Repository includes:
 
@@ -37,7 +37,7 @@ A downside of using a Spring Data Repository includes:
 
 - Lack of Fine-Grained Control: Extending repository interfaces like CrudRepository exposes a complete set of persistence methods at once, which might not be suitable for situations where you need more fine-grained control over the methods exposed. 
 
-3. How would you define an operation to find a student based on their name in a repo named StudentRepository which extends JpaRepository?
+### How would you define an operation to find a student based on their name in a repo named StudentRepository which extends JpaRepository?
 
 Follow these steps:
 
