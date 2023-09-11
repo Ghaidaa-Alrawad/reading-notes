@@ -46,5 +46,5 @@ I'm currently diving into Code 401 - the pinnacle of software development educat
 | Class11 reading  | [Class11Link](class11.md) |
 | Class12 reading  | [Class12Link](class12.md) |
 | Class13 reading  | [Class13Link](class13.md) |
-| Class14 reading  | [Class13Link](class14.md) |
+| Class14 reading  | [Class14Link](class14.md) |
 
