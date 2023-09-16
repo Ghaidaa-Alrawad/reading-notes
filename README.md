@@ -48,5 +48,4 @@ I'm currently diving into Code 401 - the pinnacle of software development educat
 | Class13 reading  | [Class13Link](class13.md) |
 | Class14 reading  | [Class14Link](class14.md) |
 | Trees reading  | [TreesLink](Trees.md) |
-
-
+| Class16 reading  | [Class16Link](class16.md) |
