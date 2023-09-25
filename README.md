@@ -51,3 +51,4 @@ I'm currently diving into Code 401 - the pinnacle of software development educat
 | Class16 reading  | [Class16Link](class16.md) |
 | Class17 reading  | [Class17Link](class17.md) |
 | Class18 reading  | [Class18Link](class18.md) |
+| Class19 reading  | [Class19Link](class19.md) |
