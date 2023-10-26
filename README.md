@@ -56,3 +56,4 @@ I'm currently diving into Code 401 - the pinnacle of software development educat
 | Class27 reading  | [Class27Link](class27.md) |
 | Class28 reading  | [Class28Link](class28.md) |
 | Class29 reading  | [Class29Link](class29.md) |
+| Class30 reading  | [Class30Link](class30.md) |
