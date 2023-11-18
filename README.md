@@ -62,3 +62,4 @@ I'm currently diving into Code 401 - the pinnacle of software development educat
 | Class33 reading  | [Class33Link](class33.md) |
 | Class34 reading  | [Class34Link](class34.md) |
 | Class35 reading  | [Class35Link](class35.md) |
+| Class36 reading  | [Class36Link](class36.md) |
